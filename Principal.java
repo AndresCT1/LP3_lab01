@@ -18,6 +18,7 @@ public class Principal {
 			System.out.println("Adivinaste!!!! ");
 		else
 			System.out.println("ups, perdiste...");
+			System.out.println("mala suerte, perdiste...");
 	}
 	
 }
